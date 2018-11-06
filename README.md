@@ -1,2 +1,2 @@
 # Swift-Challenge-Exercise
-Swift Challenge Exercises from CodeWithChris, know more in this link: https://www.youtube.com/watch?v=U4hGXWKfYy0&amp;index=18&amp;list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+This repo consists of all the exercises I do to improve myself includes basic swift functions, data structure & algorithm and online Google, Facebook, etc interview questions.
